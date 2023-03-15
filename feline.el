@@ -4,6 +4,7 @@
 ;; Homepage: https://opensource.chee.party/chee/feline-mode
 ;; Version: 1.1
 ;; Package-Requires: ((emacs "28.1"))
+;; SPDX-License-Identifier: GPL-3.0-or-later
 
 ;;; Commentary:
 ;; feline is a fast, low-frills modeline replacement for Emacs.
